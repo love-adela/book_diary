@@ -31,3 +31,5 @@
 - [ ] 2019-12 [C++ 자료구조론 (2판)]()
 - [ ] 2019-12 [아무튼 식물]()
 - [ ] 2019-12 [여자 주인공만 모른다]()
+...
+- [ ] 2020-04 [불렛저널](https://github.com/love-adela/book_diary/blob/master/bulletjournal.md)
